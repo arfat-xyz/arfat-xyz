@@ -1,4 +1,8 @@
-# 💫 About Me:
+<img src="Arfatur-rahman-web-banner.jpg" alt="GitHub Banner" width="100%" height="600px" style="border-radius:20px;" />
+
+# 💫 Hello World! I am Arfatur Rahman
+
+## Full-Stack Developer | AI Enthusiast
 
 **🔭 I’m currently working on** <br>An AI-powered RAG-based portfolio featuring a chatbot that provides real-time, context-aware responses. I’m integrating Supabase, Prisma, and NextAuth.js for dynamic content management and secure access.<br><br>**👯 I’m looking to collaborate on** <br>AI-driven projects, especially those involving Natural Language Processing (NLP), Retrieval-Augmented Generation (RAG), and real-time communication systems. I’m also interested in collaborating on full-stack applications that integrate modern web technologies with AI.<br><br>**🤝 I’m looking for help with** <br>Expanding my knowledge in advanced AI integrations and improving my skills in deploying scalable machine learning models in production. I’m also open to learning more about cloud-native technologies and deployment automation.<br><br>**🌱 I’m currently learning** <br>The latest advancements in AI, specifically around LangChain and fine-tuning language models. I’m also diving deeper into cloud platforms for seamless deployment and management of scalable applications.<br><br>**💬 Ask me about** <br>Building scalable full-stack applications, integrating AI with OpenAI API and LangChain, real-time communication using Pusher, and deploying applications on cloud platforms like Heroku and Azure.<br><br>**⚡ Fun fact** <br>I’m passionate about exploring how AI can revolutionize the automobile industry and make it smarter and more efficient!
 
