@@ -2,6 +2,14 @@
 
 **🔭 I’m currently working on** <br>An AI-powered RAG-based portfolio featuring a chatbot that provides real-time, context-aware responses. I’m integrating Supabase, Prisma, and NextAuth.js for dynamic content management and secure access.<br><br>**👯 I’m looking to collaborate on** <br>AI-driven projects, especially those involving Natural Language Processing (NLP), Retrieval-Augmented Generation (RAG), and real-time communication systems. I’m also interested in collaborating on full-stack applications that integrate modern web technologies with AI.<br><br>**🤝 I’m looking for help with** <br>Expanding my knowledge in advanced AI integrations and improving my skills in deploying scalable machine learning models in production. I’m also open to learning more about cloud-native technologies and deployment automation.<br><br>**🌱 I’m currently learning** <br>The latest advancements in AI, specifically around LangChain and fine-tuning language models. I’m also diving deeper into cloud platforms for seamless deployment and management of scalable applications.<br><br>**💬 Ask me about** <br>Building scalable full-stack applications, integrating AI with OpenAI API and LangChain, real-time communication using Pusher, and deploying applications on cloud platforms like Heroku and Azure.<br><br>**⚡ Fun fact** <br>I’m passionate about exploring how AI can revolutionize the automobile industry and make it smarter and more efficient!
 
+## My Github
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/arfat-xyz/arfat-xyz/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/arfat-xyz/arfat-xyz/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/arfat-xyz/arfat-xyz/output/github-snake.svg" />
+</picture>
+
 ## 🌐 Socials:
 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/arfat.xyz) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/arfatapp) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/arfat-rahman) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@arfatxyz) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/arfatur-rahman) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Leading_Mix2494/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/12746154) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/arfatapp) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/arfatapp) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@arfatapp) [![Codepen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)](https://codepen.io/arfatapp) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:arfatrahman08@gmail.com)
@@ -25,8 +33,3 @@
 [![](https://visitcount.itsvg.in/api?id=arfat-xyz&icon=0&color=2)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-</picture>
