@@ -1,6 +1,6 @@
 <img src="Arfatur-rahman-web-banner.jpg" alt="GitHub Banner" width="100%" style="border-radius:20px;" />
 
-# 💫 Hello World! I am Arfatur Rahman
+# 💫 Hello World! I am [Arfatur Rahman](https://arfat.app/)
 
 ## Full-Stack Developer | AI Enthusiast
 
@@ -34,7 +34,6 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=arfat-xyz&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=arfat-xyz&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=arfat-xyz&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ### 🔝 Top Contributed Repo
 
