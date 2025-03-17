@@ -1,4 +1,4 @@
-<img src="Arfatur-rahman-web-banner.jpg" alt="GitHub Banner" width="100%" style="border-radius:20px;" />
+<img src="Arfatur-rahman-web-banner.webp" alt="GitHub Banner" width="100%" style="border-radius:20px;" />
 
 # 💫 Hello World! I am [Arfatur Rahman](https://arfat.app/)
 
